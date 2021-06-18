@@ -1,0 +1,56 @@
+body {
+background-color: rgba(0, 0, 205, 0.692) ;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+.pizza {
+    border: 1px solid chocolate;
+    padding: 1em; 
+    margin: 1em;
+margin-left: 0em;
+margin-bottom: 0.5em;
+border-radius: 1em;
+width:40em ;
+
+}
+
+.medium_pizza {
+background-color: burlywood;
+
+}
+
+.small_pizza {
+    background-color: chartreuse;
+}
+
+.large_pizza {
+    background-color: forestgreen;
+}
+
+.contact_us {
+    background-color: gray;
+}
+
+
+
+@media (min-width: 760px) {
+
+    body {
+        background-color: coral;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+        }
+
+@media (min-width: 960px) {
+
+    body {
+        background-color: #FFF;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .pizzas {
+        display: flex;
+    }
+        }
