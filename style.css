@@ -4,6 +4,16 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    border: 3px #0077b6;
+}   
+
+
+
 
 .pizza {
     border: 1px solid chocolate;
@@ -17,20 +27,21 @@ width:40em ;
 }
 
 .medium_pizza {
-background-color: burlywood;
+background-color:#0077b6;
 
 }
 
 .small_pizza {
-    background-color: chartreuse;
+    background-color: #0096c7;
 }
 
 .large_pizza {
-    background-color: forestgreen;
+    background-color: #00b4d8;
 }
 
 .contact_us {
-    background-color: gray;
+    background-color: #48cae4;
+    width: auto;
 }
 
 
@@ -46,7 +57,7 @@ background-color: burlywood;
 @media (min-width: 960px) {
 
     body {
-        background-color: #FFF;
+        background-color: #90e0ef;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
