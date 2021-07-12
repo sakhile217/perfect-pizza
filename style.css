@@ -1,5 +1,5 @@
 body {
-background-color: rgba(0, 0, 205, 0.692) ;
+background-color: rgba(0, 147, 205, 0.897) ;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
@@ -18,9 +18,9 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 .pizza {
     border: 1px solid chocolate;
-    padding: 1em; 
+    padding: 0.5em; 
     margin: 1em;
-margin-left: 0em;
+margin-left: 0.5em;
 margin-bottom: 0.5em;
 border-radius: 1em;
 width: 40px;
