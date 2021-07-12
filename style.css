@@ -23,21 +23,23 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 margin-left: 0em;
 margin-bottom: 0.5em;
 border-radius: 1em;
-width:40em ;
+width: 40px;
 
 }
 
 .medium_pizza {
 background-color:#0077b6;
-
+width: auto;
 }
 
 .small_pizza {
     background-color: #0096c7;
+    width: auto;
 }
 
 .large_pizza {
     background-color: #00b4d8;
+    width: auto;
 }
 
 .contact_us {
